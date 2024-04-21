@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 3s
+
+scrape_configs:
+  - job_name: 'moderator_app'
+    static_configs:
+      - targets: ['moderator-app:8080']

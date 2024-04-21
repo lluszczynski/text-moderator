@@ -1,0 +1,6 @@
+moderator_app/ai_model
+monitoring/grafana_data
+.venv
+tests/ai_model
+ai_model
+.idea
